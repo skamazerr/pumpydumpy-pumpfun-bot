@@ -1,6 +1,6 @@
 
 
-<h1  align="center">PumpyDumpy 😈 - Pump.fun bot & bundler</h1>
+<h1  align="center">PumpyDumpy 😈 - Pump.fun bot & Pump.fun bundler</h1>
 
 <p>
 

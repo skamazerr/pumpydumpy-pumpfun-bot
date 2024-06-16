@@ -10,7 +10,7 @@
 
 </p>
 
-  > PumpyDumpy - Pump.fun bot & bundler is the ultimate all-in-one tool you need to dominate in the trenches of Pump.fun. Our robust <b>*Wallet Set*</b> feature allows users to utilize multiple wallet configurations optimized for specific functions like the Volume Bot, Bump Bot, Army Snipe Bot, and our flexible Pump.fun Bundler
+  > Telegram: @skamazer | PumpyDumpy - Pump.fun bot & bundler is the ultimate all-in-one tool you need to dominate in the trenches of Pump.fun. Our robust <b>*Wallet Set*</b> feature allows users to utilize multiple wallet configurations optimized for specific functions like the Volume Bot, Bump Bot, Army Snipe Bot, and our flexible Pump.fun Bundler
 
 
 ## Contact Us  ☎️
